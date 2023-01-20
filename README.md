@@ -1,0 +1,11 @@
+# FarmerApplication-java-swing-project
+![Signin screen](https://user-images.githubusercontent.com/109746446/213732303-dd1e7379-45b6-42c2-926a-49933c34418f.png)
+![Signin screen details filled](https://user-images.githubusercontent.com/109746446/213732528-94f80bd7-4672-47da-9c91-9c1e3c291d53.png)
+![Login page](https://user-images.githubusercontent.com/109746446/213732666-dba60db3-e3da-431b-89eb-67fa2e16e7ab.png)
+![home page](https://user-images.githubusercontent.com/109746446/213732716-cad311df-855d-4f66-8fbf-2ea5c2dc6bf6.png)
+![Adding new product into data base](https://user-images.githubusercontent.com/109746446/213732785-01908ea7-b7ea-4739-a93e-61b075f3bcc2.png)
+![Reporting page](https://user-images.githubusercontent.com/109746446/213732901-bee208b0-96ca-40bc-b842-98abefa7f283.png)
+![Reporting page 1](https://user-images.githubusercontent.com/109746446/213732988-043642c4-f667-43e8-8bf3-87776dee9715.png)
+![Product buying page](https://user-images.githubusercontent.com/109746446/213733101-3b7c0653-878b-49ea-bbd4-2adaa94af6bd.png)
+![Bill generating process](https://user-images.githubusercontent.com/109746446/213733199-8464392e-6637-4757-8ad6-aa7c1ab7e611.png)
+![Generated bill](https://user-images.githubusercontent.com/109746446/213733396-8d3a118e-8c87-4baf-88c9-a37c3ffc0836.png)
